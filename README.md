@@ -1,0 +1,1 @@
+A simple Python program that lets users book train tickets. It collects passenger and journey details, assigns a random train, ticket number, and seat, and saves the ticket information to a text file. Designed for learning Python classes, input handling, and file operations.
